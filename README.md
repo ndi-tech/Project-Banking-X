@@ -1,8 +1,6 @@
  Banking Security Vulnerability Demonstration
 A comprehensive educational lab demonstrating common web application vulnerabilities, attack chains, and defense implementations in a banking context.
 
-https://img.shields.io/badge/Demo-Active-success https://img.shields.io/badge/Python-3.8+-blue https://img.shields.io/badge/License-MIT-green https://img.shields.io/badge/Status-Completed-brightgreen
-
  Table of Contents
 Overview
 
