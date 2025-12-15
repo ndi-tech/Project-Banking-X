@@ -210,8 +210,3 @@ Project Maintainer: Yinkfu Bazil N.
 Email: yinkfubazilndi@gmail.com
 Github : https://github.com/ndi-tech/Project-Banking-X.git
 
-This project is part of a security education initiative to build better defensive practices through understanding offensive techniques.
-
- If you find this project useful, please consider giving it a star on GitHub!
-
-This README provides professional documentation that showcases your technical skills while emphasizing the educational and ethical context of your work. It's ready to upload to GitHub and will make a strong impression on potential employers or collaborators.
