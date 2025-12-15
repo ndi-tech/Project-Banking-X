@@ -90,9 +90,8 @@ Virtual environment tools (venv)
 
 Installation
 bash
-# Clone the repository
-git clone https://github.com/yourusername/banking-security-demo.git
-cd banking-security-demo
+
+#Clone repo
 
 # Create and activate virtual environment
 python3 -m venv venv
