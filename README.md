@@ -46,7 +46,7 @@ Defense Implementations: Working examples of security controls
 
   Visual Demos
 Terminal Matrix Edition	GUI Popup Edition
-https://via.placeholder.com/400x200/0a0a0a/00ff00?text=Terminal+Matrix+Attack	https://via.placeholder.com/400x200/1a1a1a/00ffff?text=GUI+Attack+Simulator
+
  Attack Chain Demonstrated
 This project demonstrates a complete attack chain:
 
