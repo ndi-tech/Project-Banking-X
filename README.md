@@ -1,4 +1,4 @@
- Banking Security Vulnerability Demonstration
+** Banking Security Vulnerability Demonstration**
 A comprehensive educational lab demonstrating common web application vulnerabilities, attack chains, and defense implementations in a banking context.
 
  Table of Contents
