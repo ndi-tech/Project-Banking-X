@@ -1,9 +1,9 @@
-🔓 Banking Security Vulnerability Demonstration
+ Banking Security Vulnerability Demonstration
 A comprehensive educational lab demonstrating common web application vulnerabilities, attack chains, and defense implementations in a banking context.
 
 https://img.shields.io/badge/Demo-Active-success https://img.shields.io/badge/Python-3.8+-blue https://img.shields.io/badge/License-MIT-green https://img.shields.io/badge/Status-Completed-brightgreen
 
-📋 Table of Contents
+ Table of Contents
 Overview
 
 Features
@@ -24,7 +24,7 @@ Contributing
 
 License
 
-🎯 Overview
+ Overview
 This educational project demonstrates a complete attack chain against a simulated banking application, highlighting critical security vulnerabilities and their corresponding defenses. Built for educational purposes only, this lab environment safely illustrates how attackers exploit common weaknesses and how developers can prevent them.
 
 Core Objective: To understand and demonstrate the "Defense in Depth" principle by:
@@ -34,9 +34,8 @@ Identifying and exploiting common web vulnerabilities
 Chaining multiple weaknesses for full system compromise
 
 Implementing and validating security controls
-
-✨ Features
-🛠️ Technical Capabilities
+  Features
+ Technical Capabilities
 User Enumeration Tool: Discovers valid usernames via error message analysis
 
 Quantum Brute-Force Simulator: GUI and terminal-based password cracking demonstrations
@@ -47,23 +46,23 @@ Post-Compromise Simulation: Shows financial impact and privilege escalation
 
 Defense Implementations: Working examples of security controls
 
-🎨 Visual Demos
+  Visual Demos
 Terminal Matrix Edition	GUI Popup Edition
 https://via.placeholder.com/400x200/0a0a0a/00ff00?text=Terminal+Matrix+Attack	https://via.placeholder.com/400x200/1a1a1a/00ffff?text=GUI+Attack+Simulator
-⚡ Attack Chain Demonstrated
+ Attack Chain Demonstrated
 This project demonstrates a complete attack chain:
 
-🔍 Reconnaissance: Information gathering via error message analysis
+ Reconnaissance: Information gathering via error message analysis
 
-🔓 Initial Access: Credential cracking through targeted brute-forcing
+ Initial Access: Credential cracking through targeted brute-forcing
 
-💼 Privilege Escalation: Session hijacking and admin access exploitation
+ Privilege Escalation: Session hijacking and admin access exploitation
 
-💰 Impact Demonstration: Simulated financial theft and data exfiltration
+ Impact Demonstration: Simulated financial theft and data exfiltration
 
-🛡️ Defense Implementation: Security control deployment and validation
+ Defense Implementation: Security control deployment and validation
 
-📁 Project Structure
+ Project Structure
 text
 banking-security-demo/
 ├── scripts/
@@ -83,7 +82,7 @@ banking-security-demo/
 │   └── diagrams/               # Attack chain flowcharts
 ├── requirements.txt            # Python dependencies
 └── README.md                   # This file
-🚀 Quick Start
+ Quick Start
 Prerequisites
 Python 3.8 or higher
 
@@ -149,8 +148,8 @@ if limiter.check_attempt(user_ip):
 else:
     # Account locked
     print("Account temporarily locked due to suspicious activity")
-⚠️ Security Considerations
-🔐 Ethical Usage
+ Security Considerations
+ Ethical Usage
 This project is designed for:
 
 Educational purposes in controlled environments
@@ -159,7 +158,7 @@ Security awareness training for developers
 
 Defensive security research and control validation
 
-🚫 Restricted Usage
+ Restricted Usage
 Never use this tool for:
 
 Unauthorized testing of systems you don't own
@@ -175,7 +174,7 @@ Conduct all demonstrations in isolated lab environments
 
 Follow responsible disclosure practices for any discovered vulnerabilities
 
-🤝 Contributing
+ Contributing
 We welcome contributions that enhance the educational value of this project:
 
 Fork the repository
@@ -197,25 +196,25 @@ Improved documentation and tutorials
 
 Bug fixes and performance improvements
 
-📜 License
+ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Disclaimer: This tool is for educational purposes only. The creators assume no liability for any misuse of this software.
 
-🎓 Learning Resources
+ Learning Resources
 OWASP Web Security Testing Guide
 
 PortSwigger Web Security Academy
 
 MITRE ATT&CK Framework
 
-✉️ Contact
+ Contact
 Project Maintainer: Yinkfu Bazil N.
 Email: yinkfubazilndi@gmail.com
-Website: [yourportfolio.com]
+Github : https://github.com/ndi-tech/Project-Banking-X.git
 
 This project is part of a security education initiative to build better defensive practices through understanding offensive techniques.
 
-⭐ If you find this project useful, please consider giving it a star on GitHub!
+ If you find this project useful, please consider giving it a star on GitHub!
 
 This README provides professional documentation that showcases your technical skills while emphasizing the educational and ethical context of your work. It's ready to upload to GitHub and will make a strong impression on potential employers or collaborators.
